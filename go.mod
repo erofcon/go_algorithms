@@ -1,3 +1,3 @@
-module github.com/tamirlan009/go_algorithms
+module github.com/erofcon/go_algorithms
 
 go 1.18
